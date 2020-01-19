@@ -11,4 +11,3 @@ int main()
 	trafficlight();
 	return 0;
 }
-
